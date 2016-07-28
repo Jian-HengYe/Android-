@@ -12,4 +12,4 @@ http://www.zhihu.com/question/28481864
 https://www.ptt.cc/bbs/AndroidDev/M.1360424268.A.8CB.html
 
 Material Design Patterns 教學 
-http://blog.30sparks.com/material-design-1-navigation-drawer/
+http://blog.30sparks.com/material-design-patterns-tutorial/
