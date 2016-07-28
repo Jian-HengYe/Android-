@@ -13,3 +13,6 @@ https://www.ptt.cc/bbs/AndroidDev/M.1360424268.A.8CB.html
 
 Material Design Patterns 教學 
 http://blog.30sparks.com/material-design-patterns-tutorial/
+
+Google Material Design 正體中文版
+https://wcc723.gitbooks.io/google_design_translate/content/index.html
